@@ -121,7 +121,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [contributors-url]: https://github.com/Jimpad/college-physics-matlab/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Jimpad/college-physics-matlab.svg?style=for-the-badge
 [forks-url]: https://github.com/Jimpad/college-physics-matlab/network/members
-
+[stars-shield]: https://img.shields.io/github/stars/Jimpad/college-physics-matlab.svg?style=for-the-badge
+[stars-url]: https://github.com/Jimpad/college-physics-matlab/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Jimpad/college-physics-matlab.svg?style=for-the-badge
 [issues-url]: https://github.com/Jimpad/college-physics-matlab/issues
 [license-shield]: https://img.shields.io/github/license/Jimpad/college-physics-matlab.svg?style=for-the-badge
