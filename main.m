@@ -139,7 +139,7 @@ ylabel('Distance','FontSize',20);
 % X axis label, see \alpha
 xlabel('\eta','FontSize',22);
 
-# Case #3
+% Case #3
 
 % Set the figure which will hold the plot
 figure
