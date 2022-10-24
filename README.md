@@ -2,6 +2,13 @@
 
 Physics aims to describe the function of everything around us, from the movement of tiny charged particles to the motion of people, cars, and spaceships. In fact, almost everything around you can be described quite accurately by the laws of physics.
 
+# Requirements
+
+In order to perform the calculations, you must have the following toolboxes installed in MatLab:
+
+    1) Symbolic Math Toolbox
+    2) Bioinformatics Toolbox
+
 # Problem
 
 We want to cross the river and our boat is going twice slower than the current of the river.
