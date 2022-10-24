@@ -22,7 +22,7 @@
   <!-- end:Icons-->
   <!-- begin:Logo -->
   <a>
-    <img src="src\media\logo.svg" alt="Logo" width="80" height="80">
+    <img src="src/media/logo/logo.svg" alt="Logo" width="80" height="80">
   </a>
   <!-- end:Logo >
 
@@ -56,7 +56,7 @@ We want to cross the river and our boat is going twice slower than the current o
 In which direction (angle) must we steer the boat so that the distance to the starting point is shortest?
 
 <a>
-<img src="./src/equation.png">
+<img src="./src/media/equation.png">
 </a>
 
 Let η be a ratio of Vr and Vb, where Vr is the velocity of river and Vb velocity of boat.
