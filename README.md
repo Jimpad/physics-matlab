@@ -35,13 +35,13 @@ We find α=120 degrees for η=2. Calculate d and plot a sketch: river flow, xo, 
 ## Loop Plots
 
 <a>
-<img src="./out/loop-plots.png">
+<img src="./out/loop-plots.jpg">
 </a>
 
 ## Merged Plots
 
 <a>
-<img src="./out/plots-merged.png">
+<img src="./out/plots-merged.jpg">
 </a>
 
 # License
