@@ -3,7 +3,8 @@
     Date: 26/09/2022
  >
 
-<!-- begin:ProjectShields -->
+<! -- begin:ProjectShields -->
+
 <!--
     I'm using markdown "reference style" links for readability.
     Reference links are enclosed in brackets [ ] instead of parentheses ( ).
@@ -29,7 +30,7 @@
   </a>
   <!-- end:Logo >
 
-  <!-- begin:ShortDescription -->
+  < !-- begin:ShortDescription -->
   <p align="center">
     Powered by   
     <br>
@@ -79,7 +80,7 @@ We find α=120 degrees for η=2. Calculate d and plot a sketch: river flow, xo, 
 ## Sketch of River
 
 <a>
-<img src="./out/river-sketch.jpg">
+<img src="./src/media/river-sketch.png">
 </a>
 
 ## Loop Plots
