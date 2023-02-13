@@ -38,7 +38,7 @@
     <br>
     <a href="https://github.com/Jimpad/college-physics-matlab"><strong>Explore the docs »</strong></a>
   </p>
-  <!-- end:ShortDescription -->
+  < !-- end:ShortDescription -->
 </div>
 <!-- end:ProjectShields -->
 
